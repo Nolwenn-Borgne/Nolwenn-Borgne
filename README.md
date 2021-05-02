@@ -2,7 +2,7 @@
 
 #### A web developer specialised in Symfony
 
-- 🔭 I’m currently working on `Mon carnet de recettes`, an app for people who enjoy food.
+- 🔭 I’m currently working on `facecook`, an app for people who enjoy food.
 - 🌱 I’m currently learning Symfony
 - 📫 How to reach me: nolwenn.borgne@gmail.com
 
