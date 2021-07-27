@@ -2,13 +2,14 @@
 
 #### A web developer specialised in Symfony
 
-- 🔭 I’m currently working on `facecook`, an app for people who enjoy food.
-- 🌱 I’m currently learning Symfony
+- 🌱 I’m currently learning Java
+- 🔭 My last project : `facecook`, an app for people who enjoy food.
 - 📫 How to reach me: nolwenn.borgne@gmail.com
+- :globe_with_meridians: [My website](https://nolwenn-borgne.github.io/)
 
 #### My skills
 
-Symfony 😍 PHP, javascript, HTML5, CSS3
+Symfony 😍 PHP, Java, JavaScript, HTML5, CSS3
 
 #### Social
 
