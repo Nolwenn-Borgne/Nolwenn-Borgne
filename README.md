@@ -1,6 +1,6 @@
 ### Hello, I'm Nolwenn ! 👋
 
-#### A developer who wants to specialized in AI
+#### A developer who wants to specialize in AI
 
 - 🌱 I’m currently learning CS50 Artificial Intelligence with python
 - 🔭 My current project : `minesweeper`, i have to implement the logic for the AI
