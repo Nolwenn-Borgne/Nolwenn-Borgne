@@ -1,15 +1,15 @@
 ### Hello, I'm Nolwenn ! 👋
 
-#### A web developer specialised in Symfony
+#### A developer who wants to specialized in AI
 
-- 🌱 I’m currently learning Java
-- 🔭 My last project : `facecook`, an app for people who enjoy food.
+- 🌱 I’m currently learning CS50 Artificial Intelligence with python
+- 🔭 My current project : `minesweeper`, i have to implement the logic for the AI
 - 📫 How to reach me: nolwenn.borgne@gmail.com
 - :globe_with_meridians: [My website](https://nolwenn-borgne.github.io/)
 
 #### My skills
 
-Symfony 😍 PHP, Java, JavaScript, HTML5, CSS3
+Python, PHP, Symfony, Java, JavaScript, HTML5, CSS3
 
 #### Social
 
